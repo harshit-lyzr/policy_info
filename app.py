@@ -32,7 +32,7 @@ st.image(image, width=150)
 # App title and introduction
 st.title("Lyzr Policy Information Chatbot")
 st.markdown("### Welcome to the Lyzr Policy Information Chatbot!")
-st.markdown("This App uses Lyzr QABot for Your Policy & Insurance Related Queries.We Have used Health Insurance Data.You can Ask Any Queries Related to Health Insurance.")
+st.markdown("This app uses Lyzr QABot to assist with your policy and insurance-related queries. We have integrated comprehensive health insurance data to provide accurate and helpful information. Feel free to ask any questions related to health insurance.")
 st.markdown("Suggested Question: ")
 st.markdown("1) is this insurance coverage cover my disorders of lens?")
 st.markdown("2) My 34% coverage period is gone how much refund i get if i cancel my insurance?")
